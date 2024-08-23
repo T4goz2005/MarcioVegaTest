@@ -2053,6 +2053,8 @@ header .circle {
     max-width: 500px;
     margin: 0 auto;
     text-align: center;
+    display: flex;
+    flex-direction: column;
   }
 
   .footer-about {
